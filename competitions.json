@@ -1,0 +1,36 @@
+{
+  "competitions": [
+    {
+      "id": "1",
+      "name": "Hackathon",
+      "fees": "100",
+      "date": "01/04/2023",
+      "participants": 10,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores aperiam dolores ratione dignissimos modi? Corrupti n nemo repellendus co odit quo laudantium!"
+    },
+    {
+      "id": "2",
+      "name": "Meet & Greet",
+      "fees": "30",
+      "date": "01/04/2023",
+      "participants": 0,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores aperiam dolores ratione dignissimos modi? Corrupti n nemo repellendus co odit quo laudantium!"
+    },
+    {
+      "id": "3733",
+      "name": "qssqqsqs",
+      "description": "qsqsqsqsqs",
+      "fees": "100",
+      "date": "2024-02-28",
+      "participants": "500"
+    },
+    {
+      "id": "9c6d",
+      "name": "dsdsdsds",
+      "description": "qsddqsqdsqdsqds",
+      "fees": "500",
+      "date": "2024-02-29",
+      "participants": 0
+    }
+  ]
+}
